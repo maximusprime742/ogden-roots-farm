@@ -1,1 +1,36 @@
-theme = 'ananke'
+baseURL = "https://ogdenrootsfarm.com/"
+languageCode = "en-us"
+title = "Ogden Roots Farm"
+theme = "ananke"
+
+[params]
+  description = "A small farm rooted in good soil, honest practices, and homegrown food."
+  featured_image = "/images/hero.jpg"
+  background_color_class = "bg-near-black"
+  recent_posts_number = 3
+  show_reading_time = false
+
+[params.social]
+  # Add your handles if desired, e.g.:
+  # instagram = "ogdenrootsfarm"
+  # facebook  = "ogdenrootsfarm"
+
+[[menus.main]]
+  name   = "About"
+  url    = "/#about"
+  weight = 1
+
+[[menus.main]]
+  name   = "What We Grow"
+  url    = "/#grow"
+  weight = 2
+
+[[menus.main]]
+  name   = "Our Practices"
+  url    = "/#practices"
+  weight = 3
+
+[[menus.main]]
+  name   = "Contact"
+  url    = "/#contact"
+  weight = 4

@@ -6,7 +6,7 @@ featured_image: "/images/hero.jpg"
 
 ## {#about}
 
-We're Ogden Roots Farm — a small, family-run operation nestled in the valley. We believe good food starts with healthy soil, careful stewardship, and a deep respect for the land we tend.
+We're Ogden Roots Farm — a small, family-run operation right here in downtown Ogden. We believe good food starts with healthy soil, careful stewardship, and a deep respect for the land we tend.
 
 ---
 
@@ -14,7 +14,7 @@ We're Ogden Roots Farm — a small, family-run operation nestled in the valley. 
 
 We grow a rotating mix of seasonal vegetables, herbs, and fruits — all tended by hand and harvested at peak ripeness. Current offerings include:
 
-- **Vegetables:** Tomatoes, peppers, squash, greens, root vegetables
+- **Vegetables:** Tomatoes, carrots, beets, lettuce, and more
 - **Herbs:** Basil, oregano, thyme, and more
 - **Seasonal:** We rotate crops throughout the year to keep the soil healthy and our tables interesting
 
@@ -26,7 +26,6 @@ We farm the way we think it should be done:
 
 - **No synthetic pesticides or herbicides** — we rely on companion planting, cover crops, and healthy soil biology
 - **Composting everything** — all organic matter stays on the farm
-- **Water-conscious** — drip irrigation and rain collection where possible
 - **Open farm** — we welcome neighbors, questions, and curious kids
 
 ---

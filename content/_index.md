@@ -15,7 +15,7 @@ We're Ogden Roots Farm — a small, family-run operation right here in downtown 
 We grow a rotating mix of seasonal vegetables, herbs, and fruits — all tended by hand and harvested at peak ripeness. Current offerings include:
 
 - **Vegetables:** Tomatoes, carrots, beets, lettuce, and more
-- **Herbs:** Basil, oregano, thyme, and more
+- **Herbs:** Basil and dill
 - **Seasonal:** We rotate crops throughout the year to keep the soil healthy and our tables interesting
 
 ---
